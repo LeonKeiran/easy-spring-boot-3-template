@@ -6,12 +6,12 @@
 
     <parent>
         <groupId>com.zeeyeh</groupId>
-        <artifactId>meow-express</artifactId>
+        <artifactId>easy-spring-boot-3-template</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>meow-system</artifactId>
-    <version>${meow-express.version}</version>
+    <artifactId>es-system</artifactId>
+    <version>${es-app.version}</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -24,8 +24,8 @@
     <dependencies>
         <dependency>
             <groupId>com.zeeyeh</groupId>
-            <artifactId>meow-common</artifactId>
-            <version>${meow-express.version}</version>
+            <artifactId>es-common</artifactId>
+            <version>${es-app.version}</version>
         </dependency>
         <dependency>
             <groupId>com.tangzc</groupId>

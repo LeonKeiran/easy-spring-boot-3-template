@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/me-common/pom.xml" />
         <option value="$PROJECT_DIR$/meow-common/pom.xml" />
         <option value="$PROJECT_DIR$/meow-system/pom.xml" />
+        <option value="$PROJECT_DIR$/es-system/pom.xml" />
+        <option value="$PROJECT_DIR$/es-common/pom.xml" />
       </list>
     </option>
   </component>
